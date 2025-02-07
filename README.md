@@ -1,2 +1,2 @@
-# Bootastrap
+# Bootstrap
 Website Toko Online menggunakan bootstrap
