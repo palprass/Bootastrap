@@ -1,0 +1,23 @@
+.jumbotron{
+    text-align: center;
+    color: rgb(12, 17, 44);
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+.carousel-inner {
+    box-shadow: 0 3px 10px black;
+}
+.about {
+    font-size: larger;
+}
+.card-pro {
+    border-radius: 6px;
+    width: 400px;
+    height: auto;
+    box-shadow: 1px 10px 26px -2px rgba(0,0,0,0.37);
+    margin: 10px;
+}
+.card-pro img {
+    width: 100%;
+    height: auto;
+}
